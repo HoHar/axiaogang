@@ -735,7 +735,7 @@ const Home: React.FC<HomeProps> = ({
   return (
     <>
       <Head>
-        <title>GPT3.5 - 一程山路</title>
+        <title>ChatGPT</title>
         <meta name="description" content="" />
         <meta
           name="viewport"
